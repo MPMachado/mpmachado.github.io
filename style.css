@@ -1,0 +1,10 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background: radial-gradient(rgb(43, 177, 255) , rgb(0, 53, 102));
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
